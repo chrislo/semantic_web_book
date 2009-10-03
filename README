@@ -1,0 +1,3 @@
+As I work through O'Reilly's "Programming the Semantic Web" [Segaran,
+Evans, Taylor] I'm translating the Python code into Ruby. I'm also
+adding tests (written in Shoulda) where I can.
